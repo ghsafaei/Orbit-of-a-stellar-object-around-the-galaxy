@@ -1,4 +1,4 @@
-# Orbit-of-an-stellar-object-around-the-galaxy
+# Orbit-of-a-stellar-object-around-the-galaxy
 
 ## What is all this about?
 
