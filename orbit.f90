@@ -39,7 +39,7 @@ if (select.eq.1) then
 	      write(1,*)yout(1),yout(3),yout(5)	  
        end do
 
-   !***
+   !******
     output = 'Point-Mass'
     aaa='---'
     bbb='---'
