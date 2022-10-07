@@ -10,7 +10,7 @@
 Program orbit
 Implicit none
 Real x0,y0,z0,vx0,vy0,vz0,vr0,r0,h,x,xi,xf   
-real pc,Mcore,G,select,yr,time
+Real pc,Mcore,G,select,yr,time
 real a,b,q,r,v0,pi,vc,rho
 integer ,parameter :: n=6
 integer i,j,nstep
